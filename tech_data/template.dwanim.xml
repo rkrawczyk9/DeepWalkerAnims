@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dwanim>
+    <timestep>
+        <no>0</no>
+        <pose>
+            <joint>
+                <index>0</index>
+                <ctrl>0.0</ctrl>
+                <wrot>
+                    <y>0.0</y>
+                    <p>0.0</p>
+                    <r>0.0</r>
+                </wrot>
+                <wrotvel>
+                    <y>0.0</y>
+                    <p>0.0</p>
+                    <r>0.0</r>
+                </wrotvel>
+                <wpos>
+                    <x>0.0</x>
+                    <y>0.0</y>
+                    <z>0.0</z>
+                </wpos>
+                <wposvel>
+                    <x>0.0</x>
+                    <y>0.0</y>
+                    <z>0.0</z>
+                </wposvel>
+            </joint>
+        </pose>
+    </timestep>
+</dwanim>
